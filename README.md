@@ -29,5 +29,5 @@ REDIS_URL=redis://default:PASSWORD@HOST:PORT
 
  <h2>Endpoints</h2>
  
-- POST /product - creates new product
-- GET /product/{id} - gets a product by id
+- POST /products - creates new product
+- GET /products/{id} - gets a product by id
