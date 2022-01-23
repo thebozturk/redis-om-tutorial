@@ -27,9 +27,10 @@
 REDIS_URL=redis://default:PASSWORD@HOST:PORT
 ```
 <br>
-```
-You have to create your own `env` file for configs.
-```
+---
+> **_NOTE:_**
+You have to create your own `env` file for api keys.
+---
 
  <h2>Endpoints</h2>
  
